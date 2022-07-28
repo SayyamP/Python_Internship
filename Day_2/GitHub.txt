@@ -1,0 +1,12 @@
+ What is GitHub --
+ - Web-based interface that uses Git, the open source version control software that lets multiple pepole make separate changes to web pages at the same time
+ - It offers the distributed version control and source code mangement (SCM) functioality og Git
+ - It provides access control and servel collaborations features such a bug tracking, features request, task mangemnent, continuous integration.
+
+ -- Features
+ - Easy project mangement
+ - Increased safety with packages
+ - Effective team mangement
+ - Improved code writing
+ - Increased code safety
+ - Easy code hosting 
