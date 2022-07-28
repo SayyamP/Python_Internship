@@ -1,0 +1,14 @@
+pip -- python manger of python
+       ex. pip install pip
+
+modulas --  allready written codes that we can use in our code
+            2 types -- 1.built in modulas -- ex.os,abc
+                      2.external modulas -- ex.flask,tensorflow
+            external modules download through pip command
+
+python used as calucltor by using repl(read evalute print loop)
+
+commands -- do not exectable
+            pound(#) - single line command
+            (''' .... ''') - multi line command
+
