@@ -1,0 +1,27 @@
+ What is ment by python --
+ - Python is a high level, interpreted, genral purpose programming         language.
+ - It's supports multiple programming pardigms, such as, structured(Particularly procedural), object orientes and functional programming.
+ - it's design philosophy emphasizes code readability with the use of significant indentation.
+ - Paython was cpnceived in the late 1980s by Guido Van Rassum at Central Wiskunde & Informatica (CWI) in the Netharlands as a successor to ABC programming language.
+
+ Features of Python --
+ - Easy to learn and use
+ - Expressive language
+ - Interpreted language
+ - Cross platform language
+ - Free and open source
+ - Object oriented language
+ - Extensible
+ - Large standerd libary
+ - GUI programming support
+ - Integrates
+ - Embeddable
+ - Dynamic memory allocation
+
+ -- It is commnly used for developing websites and software, task automation, data analys and data visualization
+
+ -- Open source refers to the code that is designed to be publictly accessible anyone can see, modify and distribute the code as they see fit
+
+-- 
+
+
