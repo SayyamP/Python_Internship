@@ -1,0 +1,40 @@
+ -- What are Python Modules?
+ - Modules provide us with a way to share reusable functions. A module is simply a “Python file” which contains code we can reuse in multiple Python programs. A module may contain  functions, classes, lists, etc.
+
+ -- Modules in Python can be of two types:
+
+ - Built-in Modules.
+ - User-defined Modules.
+ - 1. Built-in Modules in Python
+ - One of the many superpowers of Python is that it comes with a “rich standard library”. This rich standard library contains lots of built-in modules. Hence, it provides a lot of reusable code.
+ - To name a few, Python contains modules like “os”, “sys”, “datetime”, “random”.
+ - You can import and use any of the built-in modules whenever you like in your program. (We’ll look at it shortly.)
+
+ - 2. User-Defined Modules in Python
+ - Another superpower of Python is that it lets you take things in your own hands. You can create your own functions and classes, put them inside modules and voila! You can now include hundreds of lines of code into any program just by writing a simple import statement.
+ -- What Are the Advantages of Using Comments in Python?
+ - Comments in Python provide numerous advantages. Their primary benefits include:
+
+ - Makes the code easily understandable by other programmers
+ - The code becomes self-explanatory
+ - Helps remember why we used a specific command, method, or function in the code
+ - Enables the interpreter to ignore some part of the code while testing
+ -- What Are the Different Types of Comments in Python?
+ - There are three types of comments: single-line, multi-line, and docstring comments. The syntax of comments varies depending on the type. This tutorial will explore every kind of comment individually, along with examples.
+
+ - Single-Line Comments
+ - Single-line comments begin with the “#” character. Anything that is written in a single line after ‘#’ is considered as a comment. The syntax for writing single-line comments is:
+
+ - # comments here
+
+ - There are two ways of using single-line comments in Python. You can use it before the code or next to the code. The example depicted below shows the use of comments in both ways.
+
+ - Single-LineComments
+
+ - PEP8, Python Style Guide, recommends using less than 79 characters in a single-line comment to make it easier to read. If your comment is exceeding the recommended length, you can use the next type: multi-line comments.
+ - PEP8, Python Style Guide, recommends using less than 79 characters in a single-line comment to make it easier to read. If your comment is exceeding the recommended length, you can use the next type: multi-line comments.
+
+ - Multi-Line Comments
+
+ - Python does not support multi-line comments. However, there are multiple ways to overcome this issue. None of these ways are technically multi-line comments, but you can use them as one. The first way is by using # at the beginning of each line of the comment.
+ - The next way is by using string literals but not assigning them to any variables. If you do not assign a string literal to a variable, the Python interpreter ignores it. Use this to your advantage to write multi-line comments. You can either use a single (‘’) quotation or double (“”) quotation.
