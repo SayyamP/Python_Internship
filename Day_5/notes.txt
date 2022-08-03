@@ -1,0 +1,42 @@
+data types
+
+numberic types --  int
+                   float
+                   complex/imaginary -- 1+2i, num - 5i
+                   bollen -- true/false,0/1,on/off    syn-bool
+
+sequence types -- list
+                  range
+                  tuple
+
+mapping type -- dictionary   syn-dict
+              
+text type -- sting    syn-str
+
+null -- it's not have a data type in c/c++.
+
+none type -- var=none
+
+set types -- set
+             frozenset
+
+binary types -- bytes
+                bytearry
+                memoryview
+
+type() -- using this function we can find out data type
+
+constructor functions -- Constructor is a special functions it's used to intialize objects
+
+string having length of 1 -- character
+
+in python string is consider as a array
+
+len(stringVariables) -- we use this to find out the length of string
+
+for word search we can use in function
+notin is used for that word is present or not
+
+[startPosition : endPosition] we can use this for slicling the any party from hole string
+in this end index is not use
+end index is a non exclusive
